@@ -9,5 +9,5 @@ Some of the assests are inspired by:
 <img src="https://i.imgur.com/3U91rJr.jpeg"/><hr>
 <h2><a href="https://github.com/teerentt/skinhub/raw/refs/heads/main/players/teerent/spilicia%20-%20HR%20-%20Doom.osk">spilicia - Doom mix</a></h2>
 <img src="https://i.imgur.com/QKKGyfQ.jpeg"/><hr>
-<a href="https://x.com/icanneverfc"><img src="https://i.imgur.com/K5KIzg1.png" width="175" height="175"></a>
+<a href="https://x.com/icanneverfc"><img src="https://i.imgur.com/K5KIzg1.png" width="100" height="100"></a>
 
