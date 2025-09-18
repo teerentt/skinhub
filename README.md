@@ -1,14 +1,14 @@
-<h2>Welcome to the skinhub, this repository archives and showcases lots of player-made skins i use or like for the rhythm game osu!. Enjoy looking around.</h2>
+# Welcome to the skinhub
+this repository archives and showcases lots of player-made skins i use or like for the rhythm game osu!. Enjoy looking around.
 
-<b>DISCLAIMER</b>: I do not check every single skin for private assets. If you have a problem with me hosting, please contact me.
-<p>
+**DISCLAIMER**: I do not check every single skin for private assets. If you have a problem with me hosting, please contact me.
+
+# Profiles
+<div align="center">
   
-  <a href="players/teerent/teerent.md">
-    <img src="https://a.ppy.sh/21540437" width="175" height="175" >
-  </a>
-  <a href="players/worsthrplayer/worsthrplayer.md">
-    <img src="https://a.ppy.sh/14106450" width="175" height="175" >
-  </a>
-  
-</p>
+| [teerent](players/teerent/teerent.md) | [worsthrplayer](players/worsthrplayer/worsthrplayer.md) |
+| :-----------------: | :--------------------: | 
+| <img src="https://a.ppy.sh/21540437" width="175" height="175" > | <img src="https://a.ppy.sh/14106450" width="175" height="175" >  |
+
+</div>
 
