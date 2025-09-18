@@ -6,5 +6,5 @@ Some of the assests are inspired by:
 <img src="https://i.imgur.com/6E23r4b.jpeg"/><hr>
 <a href="raw/refs/heads/main/players/teerent/spilicia%20-%20HR-%20Abyssal.osk">spilicia - Abyssal mix</a>
 <img src="https://i.imgur.com/3U91rJr.jpeg"/><hr>
-<a href="raw/refs/heads/main/players/teerent/spilicia%20-%20HR-%20Abyssal.osk">spilicia - Doom mix</a>
+<a href="https://raw.githubusercontent.com/teerentt/skinhub/main/players/teerent/spilicia%20-%20HR-%20Abyssal.osk">spilicia - Doom mix</a>
 <img src="https://i.imgur.com/QKKGyfQ.jpeg"/><hr>
