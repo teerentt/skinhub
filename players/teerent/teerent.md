@@ -1,7 +1,3 @@
-<p  align="centre">
-<a href="players/teerent/teerent.md">
-    <img src="https://a.ppy.sh/21540437" width="175" height="175" >
-</a>
 Some of the assests are inspired by:
 @spilicia on twt: here's their download link uploaded by cyperdark: <a href="osuck.link/s-4006?v=0"> spilicia -HR </a><br>
 <a href="https://x.com/abibsal?lang=en"> @Abyssal</a> : I just changed the hitcircle and hitcircle overlay.
@@ -14,4 +10,4 @@ Some of the assests are inspired by:
 <h2><a href="https://github.com/teerentt/skinhub/raw/refs/heads/main/players/teerent/spilicia%20-%20HR%20-%20Doom.osk">spilicia - Doom mix</a></h2>
 <img src="https://i.imgur.com/QKKGyfQ.jpeg"/><hr>
 <a href="https://x.com/icanneverfc"><img src="https://i.imgur.com/K5KIzg1.png" width="175" height="175"></a>
-</p>
+
