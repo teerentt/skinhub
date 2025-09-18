@@ -4,11 +4,15 @@ this repository archives and showcases lots of player-made skins i use or like f
 **DISCLAIMER**: I do not check every single skin for private assets. If you have a problem with me hosting, please contact me.
 
 # Profiles
+
 <div align="center">
-  
-| [teerent](players/teerent/teerent.md) | [worsthrplayer](players/worsthrplayer/worsthrplayer.md) |
+
+| ![pfp](https://a.ppy.sh/21540437)"<br>[teerent](players/teerent/teerent.md) | ![pfp](https://a.ppy.sh/14106450)><br>[worsthrplayer](players/worsthrplayer/worsthrplayer.md)  |
 | :-----------------: | :--------------------: | 
-| <img src="https://a.ppy.sh/21540437" width="175" height="175" > | <img src="https://a.ppy.sh/14106450" width="175" height="175" >  |
 
 </div>
 
+# Credits
+
+- [teerent](https://osu.ppy.sh/users/21540437)
+- [worsthrplayer](https://osu.ppy.sh/users/14106450)
