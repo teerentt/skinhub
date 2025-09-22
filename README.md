@@ -15,4 +15,5 @@ This repository archives and showcases lots of player-made skins I use or like f
 ## Credits
 
 - [teerent](https://osu.ppy.sh/users/21540437)
+- [spilicia]("https://skins.osuck.net/skins/4006?v=0")
 
